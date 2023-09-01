@@ -5,7 +5,7 @@ html, body, header, nav, main, footer, div, section, article, aside {margin:0; p
 header, nav, main, footer, section, article, aside {display:block;}
 
 a {color:#000;}
-a:link, a:visited {}
+a:link, a:visited {background-color:#a76;}
 a:hover, a:active {background-color:#a76;}
 
 /* ----- Stil för layout ----- */
